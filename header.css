@@ -1,0 +1,33 @@
+.expense-container {
+  width: 20%;
+  background-color: #471c61;
+
+}
+
+.expense-header {
+  border-radius: 15px 0px 0px 15px;
+}
+
+.expense-logo {
+  padding: 1.5rem;
+  color: white;
+  font-size: 2rem;
+}
+.expense-menu-container {
+  margin: 2rem;
+  color: white;
+}
+
+.menu-item {
+  margin-left: .8rem;
+  display: flex;
+}
+
+.expense-menu-item {
+  font-size: 1.2rem;
+
+}
+.expense-menu-item div {
+  margin: 0rem 1.5rem 1rem 1rem;
+
+}

@@ -1,0 +1,22 @@
+.expense-main-body {
+  width: 80%;
+  background-color: #e8e5ea;
+}
+
+.expense-table {
+  margin: 3rem;
+}
+
+.expense-chart {
+  padding: 6rem;
+}
+.expense-chart-container {
+  margin: 3rem;
+  background-color: #d7b6ec;
+  border: solid 1px;
+  border-radius: 1rem;
+}
+.charts {
+  display: flex;
+  justify-content: space-around;
+}
